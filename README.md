@@ -1,4 +1,6 @@
-## Hi there 👋
+## Data Analyst
+
+A fresher Data Analyst who 
 
 <!--
 **longnguyen0102/longnguyen0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
